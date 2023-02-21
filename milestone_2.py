@@ -6,7 +6,7 @@ print(word_list)
 word = random.choice(word_list)
 print(word)
 
-guess = input("Choose any letter from the alphabet and type it in").lower()
+guess = input("Choose any letter from the alphabet and type it in")
 
 if len(guess) == 1 and guess.isalpha():
     print("Good guess!")
