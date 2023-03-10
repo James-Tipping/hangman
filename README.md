@@ -38,3 +38,11 @@ else:
 
 ![image of program output](Screenshot%202023-03-10%20at%2017.59.11.png)
 
+## Milestone 3
+
+- In this milestone, two functions were created to take in an input from the user.
+- If the letter is not in the alphabet, the user is prompted to try again
+- If the letter is in the word, the program exits. Otherwise, the user is prompted to try again
+
+
+
