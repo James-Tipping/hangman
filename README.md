@@ -45,4 +45,5 @@ else:
 - If the letter is in the word, the program exits. Otherwise, the user is prompted to try again
 
 
+![image of program input](/Screenshot%202023-03-13%20at%2022.01.38.png)
 
